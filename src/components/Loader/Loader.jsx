@@ -1,1 +1,1 @@
-export { Loader } from '../Loader'
+import PropTypes from 'prop-types';

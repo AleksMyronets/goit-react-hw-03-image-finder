@@ -1,1 +1,1 @@
-export { ImageGallery } from '../ImageGallery'
+import PropTypes from 'prop-types';

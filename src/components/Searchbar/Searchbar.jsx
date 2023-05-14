@@ -1,1 +1,1 @@
-export { Saerchbar } from '../Saerchbar'
+import PropTypes from 'prop-types';

@@ -1,1 +1,1 @@
-export { Modal } from '../Modal'
+import PropTypes from 'prop-types';
