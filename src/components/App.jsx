@@ -1,13 +1,10 @@
 import { Component } from 'react';
-import { Button } from './Button';
+import { Searchbar } from './Searchbar';
 import { ImageGallery } from './ImageGallery';
-import { ImageGalleryItem } from './ImageGalleryItem';
+import { Button } from './Button';
 import { Loader } from './Loader';
 import { Modal } from './Modal';
-import { Saerchbar, Searchbar } from './Searchbar';
-import css from './App.module.css'
-
-
+import css from './App.module.css';
 
 export class App extends Component {
   state = {
