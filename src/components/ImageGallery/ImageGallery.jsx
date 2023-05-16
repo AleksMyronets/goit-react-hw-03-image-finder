@@ -1,6 +1,5 @@
 // import { Component } from 'react';
 import { ImageGalleryItem } from '../ImageGalleryItem';
-// import { Modal } from '../Modal';
 import css from './ImageGallery.module.css';
 import PropTypes from 'prop-types';
 
